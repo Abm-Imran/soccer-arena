@@ -142,3 +142,54 @@ main {
 .highlights-logo img {
     width: 515px;
     height: 425px;
+}
+
+
+/* -------------Footer Style--------- */
+
+
+footer {
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+    margin-bottom: 50px;
+}
+
+.footer-logo img {
+    width: 483.87px;
+    height: 110px;
+}
+
+.icon i {
+    width: 32px;
+    height: 32px;
+}
+
+/* .icon .fa-instagram {
+    width: 32px;
+    height: 32px;
+    border-radius: 50px;
+    background-color: #969BAB;
+}
+
+.icon .fa-dribbble {
+    width: 32px;
+    height: 32px;
+    border-radius: 50px;
+    background-color: #969BAB;
+}
+
+.icon .fa-twitter {
+    width: 32px;
+    height: 32px;
+    border-radius: 50px;
+    background-color: #969BAB;
+}
+
+.icon .fa-youtube {
+    width: 32px;
+    height: 32px;
+    border-radius: 50px;
+    background-color: #969BAB;
+} */
